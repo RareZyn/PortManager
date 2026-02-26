@@ -2,7 +2,7 @@
 
 A sleek Windows desktop app for developers to monitor and kill processes running on common development ports — built with C# and WinForms.
 
-![Port Killer Screenshot](Resources/PortKiller.png)
+![Port Killer Screenshot](Resources/icon_256x256.ico)
 
 ---
 
